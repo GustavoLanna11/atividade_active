@@ -1,0 +1,119 @@
+body{
+    background-image: url('../imagens_marvel/KbGPR0.jpg');
+    background-size: cover;
+}    
+
+header{
+    text-decoration-line:overline underline;
+    text-decoration-color:rgb(0, 0, 0);
+    color:#1d1a1a; text-shadow:#ffff 0.1em 0.1em 0.2em;
+}
+
+section{
+    padding: 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#desenho1{
+  background-image: url('../imagens_marvel/capita.png');
+  width:300px;
+  height:200px;
+  border:10px solid #ff0000;
+  max-width: 783px;
+}
+
+#desenho1:active{
+    background-image: url('../imagens_dc/mulher_maravilha.jpg');
+    width:300px;
+    height:200px;
+    border:10px solid #31c360;
+    transform:scale(0.9);
+}
+
+#desenho2{
+    background-image: url('../imagens_marvel/capitao_am.jpg');
+    width:300px;
+    height:200px;
+    border:10px solid #ff0000;
+
+}
+
+#desenho2:active{
+    background-image: url('../imagens_dc/supergirl.jpg');
+    width:300px;
+    height:200px;
+    border:10px solid #31c360;
+    transform:scale(0.9);
+    border:10px solid #31c360;
+    transform:scale(0.9);
+}
+
+#desenho3{
+    background-image: url('../imagens_marvel/wolverine.jpg');
+    width:300px;
+  height:200px;
+    border:10px solid #ff0000;
+}
+
+#desenho3:active{
+    background-image: url('../imagens_dc/lanterna_verde.jpeg');
+    width:300px;
+    height:200px;
+    border:10px solid #31c360;
+    transform:scale(0.9);
+    border:10px solid #31c360;
+    transform:scale(0.9);
+}
+
+#desenho4{
+    background-image: url('../imagens_marvel/iron_man.jpg');
+    width:300px;
+    height:200px;
+    border:10px solid #ff0000;
+}
+
+
+#desenho4:active{
+    background-image: url('../imagens_dc/shazam.jpg');
+    width:300px;
+    height:200px;
+    border:10px solid #31c360;
+    transform:scale(0.9);
+    border:10px solid #31c360;
+    transform:scale(0.9);
+}
+
+#desenho5{
+    background-image: url('../imagens_marvel/hulk.jpg');
+    width:300px;
+  height:200px;
+    border:10px solid #ff0000;
+}
+
+#desenho5:active{
+    background-image: url('../imagens_dc/jon_jones.jpg');
+    width:300px;
+    height:200px;
+    border:10px solid #31c360;
+    transform:scale(0.9);
+    border:10px solid #31c360;
+    transform:scale(0.9);
+}
+
+#desenho6{
+    background-image: url('../imagens_marvel/ciclope.jpg');
+    width:300px;
+    height:200px;
+    border:10px solid #ff0000;
+}
+
+#desenho6:active{
+    background-image: url('../imagens_dc/ciborgue.jpg');
+    width:300px;
+    height:200px;
+    border:10px solid #31c360;
+    transform:scale(0.9);
+    border:10px solid #31c360;
+    transform:scale(0.9);
+}
